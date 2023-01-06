@@ -1,5 +1,5 @@
 # ECE-421-coursework
-This repository contains my solutions to 4 assignments for ECE421 Introduction to Machine Learning, taken as part of my degree in Engineering Science. These assignments include implementing and studying Gated Recurrent Neural Networks, Convolution Neural Networks, Support Vector Machines, and the K-means clustering algorithm.
+This repository contains my solutions to 4 assignments for ECE421 Introduction to Machine Learning, taken as part of my degree in Engineering Science. These assignments include implementing and studying Gated Recurrent Neural Networks, Convolution Neural Networks, Support Vector Machines, and the K-means clustering algorithm. I have provided a brief explanation of what I did for The RNN and CNN assignments below.
 
 <h1> Gated Recurrent Neural Network </h1>
 
